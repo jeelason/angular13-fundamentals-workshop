@@ -14,6 +14,9 @@ in the `src/app/home/home.component.html` file,complete the following challenges
 In the `src/app/courses/courses.component.ts` file, complete the following challenges.
 - Update the form to show `percentComplete`
 - Update the form to show `favorite`
+ - BONUS: How can we edit a course without affecting the other representations?
+ 
+ **HINT:** `https://material.angular.io/components/categories`
 
 # Module 03: Services Challenges
 Complete the following challenges.
